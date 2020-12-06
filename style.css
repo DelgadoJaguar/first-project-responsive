@@ -11,7 +11,7 @@ body{
 
 /* Hero section */
 .hero-wrapper{
-    background-image: url('img/hero.jpg');
+    background-image: url('img/hero-second.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -135,7 +135,7 @@ span{
 /* Footer */
 
 .footer{
-    background-color: rgb(34, 57, 83);
+    background-color: rgb(31, 53, 80);
     font-family: 'Montserrat', sans-serif;
 }
 
