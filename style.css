@@ -186,13 +186,6 @@ span{
     font-size: 16px;
 }
 
-@media (max-width: 1160px){
-    .second-wrapper .img{
-        width: 100%;
-    }
- 
-}
-
 @media (max-width: 1024px){
     
     .second-wrapper{
