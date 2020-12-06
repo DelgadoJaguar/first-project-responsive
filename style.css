@@ -186,6 +186,12 @@ span{
     font-size: 16px;
 }
 
+@media (max-width: 1440px){
+    .second-wrapper {
+        padding: 100px;
+    }
+}
+
 @media (max-width: 1024px){
     
     .second-wrapper{
